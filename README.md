@@ -22,4 +22,5 @@ The problem has been solved using the concepts of socket programming for communi
 * Compile and execute the 'admin_server.c' file. If the bind is successfull the the server will be ready to accept connections. If not then an error message is returned and the program exists.
 * Run the 'admin.c' file , it will present a menu to update , delete and add items to the inventory. 
 * Run the 'client.c' file, it will present a menu to view cart, add items to cart , view products available and buy cart options. On a successfull purchase a receipt file would be generated.
-* Run the "read.c" file to view the 'products' file containg the list of products. 
+* Run the "read.c" file to view the 'products' file containg the list of products.
+* Example receipt files are also attached.
